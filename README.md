@@ -1,2 +1,2 @@
-# roman-number
-Kata roman number
+# roman-numerals
+Kata roman numerals
